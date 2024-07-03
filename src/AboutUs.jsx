@@ -52,7 +52,7 @@ const AboutUs = () => {
         </h2>
         <p className="text-gray-700 px-4 md:px-10 lg:px-20">
           Graha Karya Informasi memiliki tim yang diisi oleh berbagai manusia
-          yang unik dan spesialis di bidangnya masing-masing. Binar Academy
+          yang unik dan spesialis di bidangnya masing-masing. Graha Karya Informasi
           menerima talenta dengan segala macam latar belakang yang berbeda dan
           hal ini yang menjadikan kita terus berkembang dan saling belajar.
         </p>
