@@ -24,7 +24,7 @@ const berkasCV = () => {
         <p className="text-gray-700">
           Juni 2023 - Juni 2024 | Jakarta, Indonesia
         </p>
-        <ul class="list-disc px-8 py-2">
+        <ul className="list-disc px-8 py-2">
           <li>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum,
             omnis cumque perspiciatis ab, minus accusamus temporibus iure sunt
@@ -50,7 +50,7 @@ const berkasCV = () => {
         <p className="text-gray-700">
           Juni 2023 - Juni 2024 | Jakarta, Indonesia
         </p>
-        <ul class="list-disc px-8 py-2">
+        <ul className="list-disc px-8 py-2">
           <li>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum,
             omnis cumque perspiciatis ab, minus accusamus temporibus iure sunt

@@ -1,4 +1,4 @@
-const aboutUs = () => {
+const AboutUs = () => {
   return (
     <div className="min-h-screen bg-white text-center p-6 md:p-10 lg:p-20">
       <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-purple-700">
@@ -61,4 +61,4 @@ const aboutUs = () => {
   );
 };
 
-export default aboutUs;
+export default AboutUs;
