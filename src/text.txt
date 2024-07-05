@@ -1,0 +1,26 @@
+// import React from "react";
+
+// const PersonalInformation = () => {
+//   return (
+//     <div className="max-w-lg mx-auto p-4">
+//       <h2 className="text-xl font-bold mb-2">PERSONAL INFORMATION</h2>
+//       <hr className="border-black mb-4" />
+//       <div className="space-y-2">
+//         <div className="flex justify-between">
+//           <span className="font-semibold">Nama</span>
+//           <span>: Refs Maulana Siregar</span>
+//         </div>
+//         <div className="flex justify-between">
+//           <span className="font-semibold">Tempat Lahir</span>
+//           <span>: Refs Maulana Siregar</span>
+//         </div>
+//         <div className="flex justify-between">
+//           <span className="font-semibold">Tanggal Lahir</span>
+//           <span>: 2021-07-01</span>
+//         </div>
+//       </div>
+//     </div>
+//   );
+// };
+
+// export default PersonalInformation;
