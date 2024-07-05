@@ -4,24 +4,18 @@ const BerkasCV = () => {
   return (
     <div className="min-h-screen bg-white">
       <div className="p-6 md:p-10 text-center">
-        <h1 className="font-mono font-bold text-2xl md:text-3xl">
-          Refsi Maulana
+        <h1 className="font-poppins font-bold text-2xl md:text-3xl">
+          Daftar Riwayat Hidup
         </h1>
         <h3 className="text-gray-700">
-          Jakarta, Indonesia | refsimaulana@gmail.com
+          Jakarta, Indonesia | refsimaulana@gmail.com | 08123456789
         </h3>
-        <p className="text-sm md:text-md py-2 font-semibold">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-          repudiandae nostrum placeat architecto molestiae, sunt ea nisi debitis
-          accusantium sapiente, ducimus sint at enim alias hic blanditiis fugiat
-          iusto facilis.
-        </p>
       </div>
       <div className="bg-white px-6 md:px-10">
-        <h2 className="py-1 text-gray-700 text-xl md:text-2xl font-semibold">
-          Pengalaman
+        <h2 className="py-1 text-gray-700 text-xl md:text-2xl font-semibold font-poppins">
+          PERSONAL INFORMATION
         </h2>
-        <hr className="border-gray-700" />
+        <hr className="border-gray-300" />
         <h2 className="py-2 text-lg md:text-xl text-black font-semibold">
           Staff Magang Analisis Kredit
         </h2>
